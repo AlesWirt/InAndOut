@@ -1,0 +1,1 @@
+This CRUD-application allows to control your expenses, and rate them by value.
